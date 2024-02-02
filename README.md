@@ -20,7 +20,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=XavierRHMN&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=XavierRHMN&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XavierRHMN&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
