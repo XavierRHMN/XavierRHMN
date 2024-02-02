@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Interested in software development using modern technologies<br>🔭 I’m currently working on a Java interpreter<br>🌱 I’m currently learning C++<br>
+⚡ Interested in software development using modern technologies<br>🔭 I’m currently working on a Java interpreter<br>🌱 I’m expanding my knowledge on C++<br>
 
 
 # 💻 Tech Stack:
