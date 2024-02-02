@@ -1,6 +1,8 @@
 # 💫 About Me:
 ⚡ Interested in software development using modern technologies<br>🔭 I’m currently working on a Java interpreter<br>🌱 I’m expanding my knowledge on C++<br>
 
+# How to Reach Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadmasud25@hotmail.com)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -16,6 +18,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
+![XavierRHMN's Stats](https://github-readme-stats.vercel.app/api?username=XavierRHMN&theme=dark&show_icons=true&hide_border=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=XavierRHMN&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XavierRHMN&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
