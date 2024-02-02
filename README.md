@@ -2,7 +2,7 @@
 ⚡ Interested in software development using modern technologies<br>🔭 I’m currently working on a Java interpreter<br>🌱 I’m expanding my knowledge on C++<br>
 
 # How to Reach Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadmasud25@hotmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdshararrahman@gmail.com)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
